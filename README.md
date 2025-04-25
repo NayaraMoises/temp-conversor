@@ -22,7 +22,7 @@ Este é um projeto simples em Java que permite converter temperaturas de graus C
    ```bash
    java ConversorTemperatura
 
-🛠 Tecnologias Usadas
+🛠 Tecnologias Usadas -
 Java: Para o desenvolvimento do conversor de temperatura.
 
 
